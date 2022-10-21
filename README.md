@@ -1,4 +1,4 @@
-# laptop-Prices-predict
+# laptop Price Predicted Model
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/99476440/197051821-901d96b5-26c0-434c-9093-762e2f069727.png)
 
